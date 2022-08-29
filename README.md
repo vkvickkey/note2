@@ -3,7 +3,7 @@ Dashborad
 
 
 
-
+VISVIL RUN
        source vk/bin/activate
        
 Run CMD       
@@ -18,24 +18,35 @@ Run CMD
 
 Today Evening Work
 
-
-       git status
-
+Git status
+    
+        git status
+status
+1
+       
        git add .
-
-       git status
+2
+      
+      git status
+3
 
        git commit -m "change video button menu bar"
+4       
 
        git branch
+5       
 
-       git branch vk_des2
+       git branch vk_des2   
+6       
 
        git checkout vk_des4
+7
 
        git push -u origin vk_des2
+8
 
-       user name :vkvickkey
+       user name :vkvickkey  
+9       
 
        password : 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
 
