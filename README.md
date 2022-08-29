@@ -5,11 +5,11 @@ Dashborad
 
 VISVIL RUN
       
-   source vk/bin/activate
+    source vk/bin/activate
        
 Run CMD       
        
-       python3 manage.py runserver 10.0.0.2:8003
+    python3 manage.py runserver 10.0.0.2:8003
 
 
 PATH
@@ -24,31 +24,33 @@ PATH
 Git START
 
     
-        git status
+    git status
 1
        
-       git add .
+    git add .
 2
       
-      git status
+    git status
 3
 
-       git commit -m "change video button menu bar"
+    git commit -m "change video button menu bar"
 4       
 
-       git branch
+    git branch
 5       
 
-       git branch vk_des2   
+    git branch vk_des2   
 6       
 
-       git checkout vk_des4
+    git checkout vk_des4
 7
 
-       git push -u origin vk_des2
+    git push -u origin vk_des2
+    
 8 USER NAME
 
-       user name :vkvickkey  
+    vkvickkey  
+    
 9 PASS      
 
     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
@@ -58,18 +60,18 @@ Git START
 
 1
      
-     git checkout main
+    git checkout main
 2
       
-     git pull origin main
+    git pull origin main
 3
 
-     git branch
+    git branch
 4
 
-     git branch vk_des1
+    git branch vk_des1
 5
 
-     git checkout vk_des1
+    git checkout vk_des1
 
 git clone https://github.com/cosaims/omnitrix.git
