@@ -3,15 +3,23 @@ Dashborad
 
 
 
+
 source vk/bin/activate
+
+
 
 
 python3 manage.py runserver 10.0.0.2:8003
 
 
+
+
 (vk) cosaiuser@cosaiserver:~/VICKKEY/omnitrix$ python3 manage.py runserver 10.0.0.2:8003
 
-today work
+
+
+
+
 
 git status
 
