@@ -5,12 +5,8 @@ Dashborad
 
 
        source vk/bin/activate
-
-
-
-
        
-       
+Run CMD       
        
        python3 manage.py runserver 10.0.0.2:8003
 
