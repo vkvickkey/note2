@@ -11,7 +11,7 @@ Run CMD
        python3 manage.py runserver 10.0.0.2:8003
 
 
-
+PATH
 
        (vk) cosaiuser@cosaiserver:~/VICKKEY/omnitrix$ python3 manage.py runserver 10.0.0.2:8003
 
