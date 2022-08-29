@@ -54,9 +54,6 @@ Git START
        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
 
 
-
-
-
 # Daily work
 
 1
@@ -67,12 +64,12 @@ Git START
      git pull origin main
 3
 
-       git branch
+     git branch
 4
 
-       git branch vk_des1
+     git branch vk_des1
 5
 
-       git checkout vk_des1
+     git checkout vk_des1
 
 git clone https://github.com/cosaims/omnitrix.git
