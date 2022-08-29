@@ -4,7 +4,7 @@ Dashborad
 
 
 
-source vk/bin/activate
+       source vk/bin/activate
 
 
 
