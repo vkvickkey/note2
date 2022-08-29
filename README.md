@@ -9,6 +9,9 @@ Dashborad
 
 
 
+       
+       
+       
        python3 manage.py runserver 10.0.0.2:8003
 
 
