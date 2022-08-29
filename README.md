@@ -1,7 +1,6 @@
 # note2
 Dashborad
 
-# Daily work
 
 
 VISVIL RUN
