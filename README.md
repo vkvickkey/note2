@@ -9,7 +9,7 @@ Dashborad
 
 
 
-python3 manage.py runserver 10.0.0.2:8003
+       python3 manage.py runserver 10.0.0.2:8003
 
 
 
@@ -17,40 +17,39 @@ python3 manage.py runserver 10.0.0.2:8003
 (vk) cosaiuser@cosaiserver:~/VICKKEY/omnitrix$ python3 manage.py runserver 10.0.0.2:8003
 
 
+Today Evening Work
 
 
+       git status
 
+       git add .
 
-git status
+       git status
 
-git add .
+       git commit -m "change video button menu bar"
 
-git status
+       git branch
 
-git commit -m "change video button menu bar"
+       git branch vk_des2
 
-git branch
+       git checkout vk_des4
 
-git branch vk_des2
+       git push -u origin vk_des2
 
-git checkout vk_des4
+       user name :vkvickkey
 
-git push -u origin vk_des2
+       password : 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
 
-user name :vkvickkey
+Daily work
 
-password : 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
+       git checkout main
 
-daily work
+       git pull origin main
 
-git checkout main
+       git branch
 
-git pull origin main
+       git branch vk_des1
 
-git branch
-
-git branch vk_des1
-
-git checkout vk_des1
+       git checkout vk_des1
 
 git clone https://github.com/cosaims/omnitrix.git
