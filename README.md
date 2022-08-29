@@ -13,15 +13,17 @@ Run CMD
 
 
 
-(vk) cosaiuser@cosaiserver:~/VICKKEY/omnitrix$ python3 manage.py runserver 10.0.0.2:8003
+       (vk) cosaiuser@cosaiserver:~/VICKKEY/omnitrix$ python3 manage.py runserver 10.0.0.2:8003
+
 
 
 Today Evening Work
 
-Git status
+
+Git START
+
     
         git status
-status
 1
        
        git add .
@@ -50,15 +52,22 @@ status
 
        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
 
+
 Daily work
 
-       git checkout main
-
-       git pull origin main
+1
+     
+     git checkout main
+2
+      
+     git pull origin main
+3
 
        git branch
+4
 
        git branch vk_des1
+5
 
        git checkout vk_des1
 
