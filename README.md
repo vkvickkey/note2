@@ -4,7 +4,8 @@ Dashborad
 
 
 VISVIL RUN
-       source vk/bin/activate
+      
+      source vk/bin/activate
        
 Run CMD       
        
