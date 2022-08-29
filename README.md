@@ -43,12 +43,12 @@ status
 7
 
        git push -u origin vk_des2
-8
+8 USER NAME
 
        user name :vkvickkey  
-9       
+9 PASS      
 
-       password : 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
+       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
 
 Daily work
 
