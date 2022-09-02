@@ -74,7 +74,8 @@ Git START
 
     git checkout vk_des1
     
-6
+6 git DEL
+
     git branch -d vk_des1
 
 git clone https://github.com/cosaims/omnitrix.git
